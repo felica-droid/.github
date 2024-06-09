@@ -6,7 +6,7 @@
 
 ## サポート端末
 
-[サポート端末一覧](docs/codeql/CONTRIBUTING.md)
+[サポート端末一覧](/docs/DEVICE.md)
 
 ## バグについて
 
