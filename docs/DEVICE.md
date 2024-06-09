@@ -54,6 +54,8 @@ Sony Xperia 10 IV
 
 Sony Xperia 10 V
 
+Sharp AQUOS zero2
+
 ## Felica対応しておりBLUできる端末(対応予定なし)
 
 moto g53j 5G
@@ -70,21 +72,27 @@ motorola razr 40
 
 motorola razr 40s
 
+## Felica対応しておりBLUできない端末(対応予定なし)
+
 
 ## 対応しないデバイス(古いため)
 
-Huawei P20 Pro
+HUAWEI P20 Pro
+
+HUAWEI P30 Pro
 
 MOTOROLA RAZR M
 
 
 ## 対応しないデバイス(Mediatekであるため)
 
-Xiaomi Redmi note 9T 5G
+Redmi Note 13 Pro+ 5G
 
 Xiaomi 13T Pro
 
 Xiaomi 13T
+
+Xiaomi Redmi note 9T 5G
 
 motorola edge 40
 
@@ -93,3 +101,7 @@ motorola edge 40 neo
 ## 対応しないメーカー
 
 Samsung
+
+## 専用の対応が不要のため対応しないメーカー/シリーズ
+
+Google Pixel
