@@ -14,7 +14,7 @@
 
 ## ダウンロード先
 
-準備中
+[ROM](https://sourceforge.net/projects/felica-droid/files/ROM/
 
 ## サポートポリシー
 
