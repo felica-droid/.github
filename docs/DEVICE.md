@@ -13,8 +13,17 @@
 | codename | device name | carrier | 
 | ---- | ---- | ---- |
 | pdx203 | SO-51A  | docomo |
+| pdx203 | SOG01  | au |
+| pdx203 | XQ-AT42  | open |
 
 ### Sony Xperia 5 II
+
+| codename | device name | carrier | 
+| ---- | ---- | ---- |
+| pdx206 | SO-52A  | docomo |
+| pdx206 | SOG02  | au |
+| pdx206 | A002SO  | softbank |
+| pdx206 | AS-AT42  | open |
 
 ### Sony Xperia 1
 
