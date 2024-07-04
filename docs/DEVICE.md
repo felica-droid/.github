@@ -23,7 +23,7 @@
 | pdx206 | SO-52A  | docomo | Snapdragon 865 | 
 | pdx206 | SOG02  | au | Snapdragon 865 | 
 | pdx206 | A002SO  | softbank | Snapdragon 865 | 
-| pdx206 | AS-AT42  | open | Snapdragon 865 | 
+| pdx206 | XQ-AS42  | open | Snapdragon 865 | 
 
 ### Sony Xperia 1
 
