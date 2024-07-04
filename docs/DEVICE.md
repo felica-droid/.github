@@ -2,28 +2,28 @@
 
 ### Xiaomi Mi 11 Lite 5G
 
-| codename | device name | carrier | 
-| ---- | ---- | ---- |
-| renoir | M2101K9R  | open |
+| codename | model name | carrier | SOC | 
+| ---- | ---- | ---- | ---- |
+| renoir | M2101K9R  | open | Snapdragon 780G | 
 
 [lineage-19.1](https://sourceforge.net/projects/felica-droid/files/ROM/Xiaomi/renoir/19.1/)
 
 ### Sony Xperia 1 II
 
-| codename | device name | carrier | 
-| ---- | ---- | ---- |
-| pdx203 | SO-51A  | docomo |
-| pdx203 | SOG01  | au |
-| pdx203 | XQ-AT42  | open |
+| codename | model name | carrier | SOC | 
+| ---- | ---- | ---- | ---- |
+| pdx203 | SO-51A  | docomo | Snapdragon 865 | 
+| pdx203 | SOG01  | au | Snapdragon 865 | 
+| pdx203 | XQ-AT42  | open | Snapdragon 865 | 
 
 ### Sony Xperia 5 II
 
-| codename | device name | carrier | 
-| ---- | ---- | ---- |
-| pdx206 | SO-52A  | docomo |
-| pdx206 | SOG02  | au |
-| pdx206 | A002SO  | softbank |
-| pdx206 | AS-AT42  | open |
+| codename | model name | carrier | SOC | 
+| ---- | ---- | ---- | ---- |
+| pdx206 | SO-52A  | docomo | Snapdragon 865 | 
+| pdx206 | SOG02  | au | Snapdragon 865 | 
+| pdx206 | A002SO  | softbank | Snapdragon 865 | 
+| pdx206 | AS-AT42  | open | Snapdragon 865 | 
 
 ### Sony Xperia 1
 
