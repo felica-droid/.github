@@ -9,6 +9,10 @@
 
 ### Sony Xperia 1 II
 
+| codename | device name | carrier | 
+| ---- | ---- | ---- |
+| pdx203 | SO-51A  | docomo |
+
 ### Sony Xperia 5 II
 
 ### Sony Xperia 1
