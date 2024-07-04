@@ -6,6 +6,7 @@
 | ---- | ---- | ---- |
 | renoir | M2101K9R  | open |
 
+[lineage-19.1](https://sourceforge.net/projects/felica-droid/files/ROM/Xiaomi/renoir/19.1/)
 
 ### Sony Xperia 1 II
 
