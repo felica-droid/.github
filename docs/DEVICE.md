@@ -27,7 +27,19 @@
 
 ### Sony Xperia 1
 
+| codename | model name | carrier | SOC | 
+| ---- | ---- | ---- | ---- |
+| griffin | SO-03L  | docomo | Snapdragon 855 | 
+| griffin | SOV40  | au | Snapdragon 855 | 
+| griffin | 802SO  | softbank | Snapdragon 855 | 
+
 ### Sony Xperia 5
+
+| codename | model name | carrier | SOC | 
+| ---- | ---- | ---- | ---- |
+| bahamut | SO-01M  | docomo | Snapdragon 855 | 
+| bahamut | SOV40  | au | Snapdragon 855 | 
+| bahamut | 901SO  | softbank | Snapdragon 855 | 
 
 ## 調査中のデバイス
 
@@ -38,6 +50,8 @@
 ### Xiaomi Redmi note 11 Pro 5G
 
 ### LG V30 Plus
+
+### Rakuten mini
 
 ## 本体がないため対応未定のデバイス(寄付もしくは購入次第対応)
 
@@ -61,6 +75,8 @@
 
 ### Xiaomi Redmi note 10T
 
+### Sony Xperia 
+
 ### Sony Xperia 1 IV
 
 ### Sony Xperia 5 IV
@@ -73,9 +89,10 @@
 
 ### Sony Xperia 10 V
 
-### Sharp AQUOS zero2
 
 ## Felica対応しておりBLUできる端末(対応予定なし)
+
+Sharp AQUOS zero2
 
 moto g53j 5G
 
@@ -96,12 +113,7 @@ motorola razr 40s
 
 ## 対応しないデバイス(古いため)
 
-HUAWEI P20 Pro
-
-HUAWEI P30 Pro
-
 MOTOROLA RAZR M
-
 
 ## 対応しないデバイス(Mediatekであるため)
 
@@ -117,9 +129,13 @@ motorola edge 40
 
 motorola edge 40 neo
 
-## 対応しないメーカー
+## 対応しないメーカー/シリーズ
 
-Samsung
+Samsung Galaxy
+
+HTC
+
+Huawei
 
 ## 専用の対応が不要のため対応しないメーカー/シリーズ
 
