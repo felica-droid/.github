@@ -15,6 +15,6 @@ Display | 2400 x 1080 pixels, 6.55 inches
 Camera  | 64 MP main, 8 MP ultra-wide angle, 5 MP telemacro, 20 MP front
 
 ## Known SKU List
-| model name | carrier |
-| ---- | ---- |
-| M2101K9R  | open |
+model name | carrier
+-------:|:-------------------------
+M2101K9R  | open 
