@@ -2,9 +2,7 @@
 
 ### Xiaomi Mi 11 Lite 5G
 
-| codename | model name | carrier | SOC | 
-| ---- | ---- | ---- | ---- |
-| renoir | M2101K9R  | open | Snapdragon 780G | 
+[端末情報](docs/devices/xiaomi_renoir.md)
 
 [lineage-19.1](https://sourceforge.net/projects/felica-droid/files/ROM/Xiaomi/renoir/19.1/)
 
