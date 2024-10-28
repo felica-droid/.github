@@ -39,11 +39,17 @@
 | bahamut | SOV40  | au | Snapdragon 855 | 
 | bahamut | 901SO  | softbank | Snapdragon 855 | 
 
-## 調査中のデバイス
+### Xiaomi 12T Pro
+
+| codename | model name | carrier | SOC | 
+| ---- | ---- | ---- | ---- |
+| diting | 22081212R   | open | Snapdragon 8+gen1 | 
+| diting | A201XM  | softbank | Snapdragon 8+gen1 | 
 
 ### Xiaomi Redmi note 13 Pro 5G
 
-### Xiaomi 12T Pro
+## 調査中のデバイス
+
 
 ### Xiaomi Redmi note 11 Pro 5G
 
