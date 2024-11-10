@@ -2,7 +2,7 @@
 
 ### Xiaomi Mi 11 Lite 5G
 
-[端末情報](devices/xiaomi_renoir.md)
+[端末情報](devices/xiaomi/renoir.md)
 
 [ROM](https://sourceforge.net/projects/felica-droid/files/ROM/Xiaomi/renoir/)
 
