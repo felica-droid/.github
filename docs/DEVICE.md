@@ -48,10 +48,16 @@
 
 ### Xiaomi Redmi note 13 Pro 5G
 
+| codename | model name | carrier | SOC | 
+| ---- | ---- | ---- | ---- |
+| garnet | XIG05   | au | Snapdragon 7s gen2 | 
+
 ## 調査中のデバイス
 
 
 ### Xiaomi Redmi note 11 Pro 5G
+
+### Xiaomi Redmi 12 5G
 
 ### LG V30 Plus
 
@@ -59,7 +65,6 @@
 
 ## 本体がないため対応未定のデバイス(寄付もしくは購入次第対応)
 
-### Xiaomi Redmi 12 5G
 
 ### Xiaomi 11T Pro
 
@@ -96,7 +101,7 @@
 
 ## Felica対応しておりBLUできる端末(対応予定なし)
 
-Sharp AQUOS zero2
+### Sharp AQUOS zero2
 
 moto g53j 5G
 
