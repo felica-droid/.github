@@ -4,7 +4,7 @@
 
 [端末情報](devices/xiaomi_renoir.md)
 
-[lineage-19.1](https://sourceforge.net/projects/felica-droid/files/ROM/Xiaomi/renoir/19.1/)
+[ROM](https://sourceforge.net/projects/felica-droid/files/ROM/Xiaomi/renoir/)
 
 ### Sony Xperia 1 II
 
